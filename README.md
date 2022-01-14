@@ -1,7 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Vivek Nair - [@VCNinc](https://github.com/VCNinc) 👋
+
+[![My Homepage](https://img.shields.io/badge/My%20Homepage-nair.me-blue?style=for-the-badge)](https://nair.me)
+
+### I'm a NSF CyberCorps Scholar, NPSC Fellow, IC3 Researcher, and an EECS Ph.D. student at UC Berkeley.
 
 <!--
 **VCNinc/VCNinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VCNinc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCNinc&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
