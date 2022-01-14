@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VCNinc&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCNinc&hide_border=true&count_private=true&layout=compact" /></a> |
+| <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VCNinc&show_icons=true&include_all_commits=true&hide=stars&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCNinc&hide_border=true&count_private=true&layout=compact" /></a> |
 | ------------- | ------------- |
