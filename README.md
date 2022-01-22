@@ -9,6 +9,7 @@
 - 🎓 Youngest-ever recipient of Bachelor's (18) and Master's (19) degrees in Computer Science at UIUC
 - 🏢 Founder of [Multifactor.com](https://multifactor.com) & [Solid2FA.com](https://solid2fa.com)
 - 🛠️ Formerly at U.S. Department of Defense
+- ✔️ AWS Certified Solutions Architect, AWS Certified Cloud Practitioner, Microsoft Certified Azure Fundamentals
 - 📜 Author of U.S. Patents [#63/266,610](https://nair.me/US63266610.pdf), [#17/303,209](https://nair.me/US17303209.pdf), [#10,701,064](https://nair.me/US10701064.pdf), [#63/029,165](https://nair.me/US63029165.pdf), [#16/882,041](https://nair.me/US16882041.pdf), [#15/845,400](https://nair.me/US15845400.pdf), and [#62/435,227](https://nair.me/US62435227.pdf)
 
 | <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VCNinc&show_icons=true&include_all_commits=true&hide=stars,prs&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCNinc&hide_border=true&count_private=true&layout=compact" /></a> |
