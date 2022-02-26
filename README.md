@@ -12,13 +12,13 @@
 - 📜 Author of U.S. Patents [#63/267,612](https://nair.me/US63267612), [#63/266,610](https://nair.me/US63266610.pdf), [#17/303,209](https://nair.me/US17303209.pdf), [#10,701,064](https://nair.me/US10701064.pdf), [#63/029,165](https://nair.me/US63029165.pdf), [#16/882,041](https://nair.me/US16882041.pdf), [#15/845,400](https://nair.me/US15845400.pdf), and [#62/435,227](https://nair.me/US62435227.pdf)
 
 <p float="left">
-<img src="https://nair.me/aws-certified-cloud-practitioner.png" height="100">
-<img src="https://nair.me/aws-certified-solutions-architect-associate.png" height="100">
-<img src="https://nair.me/microsoft-certified-azure-fundamentals.png" height="100">
-<img src="https://nair.me/microsoft-certified-security-fundamentals.png" height="100">
-<img src="https://nair.me/microsoft-certified-data-fundamentals.png" height="100">
-<img src="https://nair.me/microsoft-certified-ai-fundamentals.png" height="100">
-<img src="https://nair.me/microsoft-certified-azure-administrator.png" height="100">
+  <a href="https://nair.me/aws-ccp"><img src="https://nair.me/aws-certified-cloud-practitioner.png" height="100"></a>
+  <a href="https://nair.me/aws-csaa"><img src="https://nair.me/aws-certified-solutions-architect-associate.png" height="100"></a>
+  <a href="https://nair.me/azure-fundamentals"><img src="https://nair.me/microsoft-certified-azure-fundamentals.png" height="100"></a>
+  <a href="https://nair.me/security-fundamentals"><img src="https://nair.me/microsoft-certified-security-fundamentals.png" height="100"></a>
+  <a href="https://nair.me/data-fundamentals"><img src="https://nair.me/microsoft-certified-data-fundamentals.png" height="100"></a>
+  <a href="https://nair.me/ai-fundamentals"><img src="https://nair.me/microsoft-certified-ai-fundamentals.png" height="100"></a>
+  <a href="https://nair.me/azure-administrator"><img src="https://nair.me/microsoft-certified-azure-administrator.png" height="100"></a>
 </p>
 
 | <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VCNinc&show_icons=true&include_all_commits=true&hide=stars,prs&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VCNinc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCNinc&hide_border=true&count_private=true&layout=compact" /></a> |
