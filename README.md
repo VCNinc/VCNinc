@@ -9,7 +9,9 @@
 - 🎓 Youngest-ever recipient of Bachelor's (18) and Master's (19) degrees in Computer Science at UIUC
 - 🏢 Founder of [Multifactor.com](https://multifactor.com) & [Solid2FA.com](https://solid2fa.com)
 - 🛠️ Formerly at U.S. Department of Defense
-- 📜 Author of U.S. Patents [#63/269,336](https://nair.me/US63269336.pdf), [#63/268,912](https://nair.me/US63268912.pdf), [#63/267,612](https://nair.me/US63267612), [#63/266,610](https://nair.me/US63266610.pdf), [#17/303,209](https://nair.me/US17303209.pdf), [#10,701,064](https://nair.me/US10701064.pdf), [#63/029,165](https://nair.me/US63029165.pdf), [#16/882,041](https://nair.me/US16882041.pdf), [#15/845,400](https://nair.me/US15845400.pdf), and [#62/435,227](https://nair.me/US62435227.pdf)
+- 📜 Author of U.S. Patents [#17/303,209](https://nair.me/US17303209.pdf), [#10,701,064](https://nair.me/US10701064.pdf), [#63/029,165](https://nair.me/US63029165.pdf), [#16/882,041](https://nair.me/US16882041.pdf), [#15/845,400](https://nair.me/US15845400.pdf), and [#62/435,227](https://nair.me/US62435227.pdf)
+
+<!-- [#63/269,336](https://nair.me/US63269336.pdf), [#63/268,912](https://nair.me/US63268912.pdf), [#63/267,612](https://nair.me/US63267612), [#63/266,610](https://nair.me/US63266610.pdf),  -->
 
 <p float="left">
   <a href="https://nair.me/aws-ccp"><img src="https://nair.me/aws-certified-cloud-practitioner.png" height="100"></a>
